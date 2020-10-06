@@ -1,3 +1,6 @@
-进入到对应文件夹
+在合适的位置mkdir一个repository
+然后进入repository
+git init 完成初始化
+
 git add
 git commit -m
